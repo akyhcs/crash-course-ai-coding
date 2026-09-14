@@ -26,6 +26,7 @@ Here’s a **copy‑friendly summary** of the key commands and concepts for mana
 - `/usage` → Check remaining allowance  
 - `/context` → See what fills your context window  
 - `/clear` → Start fresh  
+- `/ide` -> to learn about connected ides
 - **Escape** → Interrupt agent  
 - *carry on* → Resume after interruption  
 
